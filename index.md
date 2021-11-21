@@ -1,33 +1,66 @@
-Untitled
+Tipos de Pesquisas Cientificas
 ================
 
-## GitHub Documents
+## Pesquisa Fenomenológica
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
+Lorem ipsum
 
-## Including Code
+## Pesquisa Bibliográfic
 
-You can include R code in the document as follows:
+Lorem Ipsum
 
-``` r
-summary(cars)
-```
+## Pesquisa Pura
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+Lorem Ipsum
 
-## Including Plots
+## Pesquisa Experimental
 
-You can also embed plots, for example:
+Lorem Ipsum
 
-![](index_files/figure-gfm/pressure-1.png)<!-- -->
+## Pesquisa Descritiva
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+Lorem Ipsum
+
+## Ensaio Clínico
+
+Lorem Ipsum
+
+## Estudo Coorte
+
+Lorem Ipsum
+
+## Pesquisa da Teoria Fundamentada ou Grounded Theory
+
+Lorem Ipsum
+
+## Pesquisa Etnográfica
+
+Lorem Ipsum
+
+## Pesquisa Documental
+
+Lorem Ipsum
+
+## Pesquisa Explicativa
+
+Lorem Ipsum
+
+## Pesquisa de Estudo de Caso
+
+Lorem Ipsum
+
+## Pesquisa Aplicada
+
+Lorem Ipsum
+
+## Pesquisa-Ação
+
+Lorem Ipsum
+
+## Pesquisa Exploratória
+
+Lorem Ipsum
+
+## Pesquisa de Levantamento
+
+Lorem Ipsum
