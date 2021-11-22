@@ -8,15 +8,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Pesquisa Fenomenológica
-Lorem ipsum
+É um tipo de pesquisa que permite que o pesquisador contextualize as experiências em relação a sua temporalidade, espaço, corporeidade e o contexto das relações . Os objetivos da pesquisa fenomenológica são: permitir explorar situações, valores e práticas apoiadas na visão de mundo dos próprios sujeitos. Exemplos: Problemas no dia a dia , tal como o convívio com a frustração, com a depressão e até mesmo a sexualidade.
 
 
-## Pesquisa Bibliográfic
-Lorem Ipsum
+## Pesquisa Bibliográfica
+A pesquisa bibliográfica é o levantamento ou revisão de obras publicadas sobre a teoria que irá direcionar o trabalho científico o que necessita uma dedicação, estudo e análise pelo pesquisador que irá executar o trabalho científico e tem como objetivo reunir e analisar textos publicados. 
 
 
 ## Pesquisa Pura
-Lorem Ipsum
+A pesquisa pura ou pesquisa de base, nesse tipo de pesquisa, se busca o progresso científico, a ampliação de conhecimentos teóricos, sem a preocupação de utilizá-los na prática.
+Um exemplo, de pesquisa pura é o trabalho de Teoria das Cordas na área de física quântica.
 
 
 ## Pesquisa Experimental
